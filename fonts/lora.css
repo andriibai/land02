@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Lora';
+    src: local('Lora'), local('Lora-Regular'), url('Lora.woff2') format('woff2'), url('Lora.woff') format('woff'), url('Lora.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lora';
+    src: local('Lora Italic'), local('Lora-Italic'), url('Loraitalic.woff2') format('woff2'), url('Loraitalic.woff') format('woff'), url('Loraitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Lora';
+    src: local('Lora Bold Italic'), local('Lora-BoldItalic'), url('Lorabolditalic.woff2') format('woff2'), url('Lorabolditalic.woff') format('woff'), url('Lorabolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Lora';
+    src: local('Lora Bold'), local('Lora-Bold'), url('Lorabold.woff2') format('woff2'), url('Lorabold.woff') format('woff'), url('Lorabold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
